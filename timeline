@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width">
+    <title>VisualCV - TimelineJS</title>
+  </head>
+  <body>
+    <iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=v2:2PACX-1vSgfpOKU07tXWdLumxShC5JpeVaPpCe5zw8840-GdAHGF-G60u-iqr473a1DIgWDlPzrHEPmGZ3OrWp&font=Default&lang=es&initial_zoom=2&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>
+  </body>
+</html>
