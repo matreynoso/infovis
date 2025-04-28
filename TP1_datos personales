@@ -1,0 +1,10 @@
+Titulo: Consumo de líquido
+
+Datos crudos: tabla directa resultados de Google Forms
+https://docs.google.com/spreadsheets/d/e/2PACX-1vTGTov7XSxGtcy6SetP9L8WveZKh-I5kUiJuOULQ9aj9r6A0-kr3DVmfJnByTWUb2TniOSjDZ-K6wGB/pub?gid=485024198&single=true&output=csv
+
+Datos procesados: tabla base de Google Sheets
+https://docs.google.com/spreadsheets/d/e/2PACX-1vTGTov7XSxGtcy6SetP9L8WveZKh-I5kUiJuOULQ9aj9r6A0-kr3DVmfJnByTWUb2TniOSjDZ-K6wGB/pub?gid=1283518144&single=true&output=csv
+
+Graficos exploratorios + visualización final: notebook Observable
+https://observablehq.com/@mreynoso/consumo-de-liquido
